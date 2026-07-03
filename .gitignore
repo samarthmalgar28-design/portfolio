@@ -1,0 +1,14 @@
+# Git ignore file
+.DS_Store
+.vscode/
+*.log
+node_modules/
+*.swp
+*.swo
+*~
+Thumbs.db
+.env
+.env.local
+dist/
+build/
+*.backup
